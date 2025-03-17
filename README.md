@@ -34,7 +34,7 @@ Each file contains:
 ## 🚀 How to Use  
 1️⃣ Clone the repository:  
    ```bash
-   git clone [https://github.com/your-username/pandas-learning.git](https://github.com/arifur30/pandas-kaggle-learning)
+   git clone https://github.com/arifur30/pandas-kaggle-learning.git
 ```
 2️⃣ Open the Jupyter Notebooks to start learning.
 3️⃣ Follow the tutorial, then complete the exercises to practice.
