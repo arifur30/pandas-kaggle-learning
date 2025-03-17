@@ -25,11 +25,6 @@ Each module is saved as a separate `.ipynb` file and follows a **consistent form
 Each module is stored as an individual Jupyter Notebook (`.ipynb`) file in the repository. The structure follows:  
 /pandas-learning
 │── [01_creating_reading_writing.ipynb](https://github.com/arifur30/pandas-kaggle-learning/blob/main/exercise-creating-reading-and-writing.ipynb)
-│── 02_indexing_selecting_assigning.ipynb
-│── 03_summary_functions_maps.ipynb
-│── 04_grouping_sorting.ipynb
-│── 05_data_types_missing_values.ipynb
-│── 06_renaming_combining.ipynb
 └── README.md
 
 Each file contains:  
